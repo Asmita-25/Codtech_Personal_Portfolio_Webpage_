@@ -79,3 +79,17 @@ git clone https://github.com/Asmita-25/Codtech_Personal_Portfolio_Webpage_
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/b013179f-6b41-47a0-acd0-93272df74c68)
+
+![Image](https://github.com/user-attachments/assets/68d631b1-f381-4150-aa3d-960643a48eb8)
+![Image](https://github.com/user-attachments/assets/c07878b6-eb2a-49d4-86f6-95e868bd1d4f)
+![Image](https://github.com/user-attachments/assets/2a8bac43-5077-41d6-b715-37b6c61ca325)
+![Image](https://github.com/user-attachments/assets/6c03c382-cc4d-49ba-a1f4-fd8ddd5dcf27)
+
+![Image](https://github.com/user-attachments/assets/a6feaabb-a87a-47bf-b92c-e37259a114f9)
+![Image](https://github.com/user-attachments/assets/55763330-6ded-470b-8ccd-4d9f2a94eb83)
+![Image](https://github.com/user-attachments/assets/116732cc-ec85-4023-8c6e-0ee46fce23e0)
+![Image](https://github.com/user-attachments/assets/4ede25c2-c66c-452c-884a-8a6e0efa0282)
+![Image](https://github.com/user-attachments/assets/e2afd3ea-39e6-4b00-ba82-cc4cae17a0c1)
+![Image](https://github.com/user-attachments/assets/e72d53ba-81e2-4ca1-9154-0e1dde505a14)
+![Image](https://github.com/user-attachments/assets/6cd2f2b0-6e5a-4865-a999-7f522fb879af)
