@@ -78,10 +78,4 @@ Windows:
 git clone https://github.com/Asmita-25/Codtech_Personal_Portfolio_Webpage_
 
 Output:
-![Image](https://github.com/user-attachments/assets/31391932-4082-42b2-89a2-d1780290108b)
-![Image](https://github.com/user-attachments/assets/02005c82-7b41-4784-acc3-67f1a5797f5a)
-![Image](https://github.com/user-attachments/assets/5c22c301-2eeb-4b65-8223-42220979fbf9)
-![Image](https://github.com/user-attachments/assets/506bfe2b-7b92-4371-9991-d16b97445139)
-![Image](https://github.com/user-attachments/assets/08e4ae9c-34a9-44af-97ca-7319e77a8c22)
-![Image](https://github.com/user-attachments/assets/16d1db82-2a3b-4e50-add8-c60e71e50df0)
-![Image](https://github.com/user-attachments/assets/6f44857b-32a6-4b6f-906d-5708d1cc2588)
+
