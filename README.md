@@ -7,9 +7,6 @@ DOMAIN: FRONT END DEVELOPMENT
 BATCH DURATION: 5 JANUARY 2025 TO 5 FEBRUARY 2025
 MENTOR NAME: NEELA SANTOSH KUMAR
 
-Before you begin, ensure you have met the following requirements:
-
-You Should Know Basic or Intermediate of HTML ,CSS and JavaScript
 This website is developed by bootstrap 5 copy below code :
 <!--- Bootstrap 5 css CDN Link --->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous" />
@@ -78,4 +75,4 @@ To run Personal Portfolio locally, run this command on your git bash:
 
 Windows:
 
-git clone 
+git clone https://github.com/Asmita-25/Codtech_Personal_Portfolio_Webpage_
